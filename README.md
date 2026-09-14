@@ -30,3 +30,7 @@
 </div>
 
 ![Alt text](https://files.catbox.moe/621sni.png)
+
+  <div align="center">
+<p>${\text{\color{91867E} 𝕴'm a big fan of Halloween, and as well as a big fan of violent games(murder or military). My preferred aesthetics: Cottage core, Coquette, cutegore, scene. my catchphrase is "I'm tired" }}$</p>
+</div>
