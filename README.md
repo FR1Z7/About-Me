@@ -2,8 +2,8 @@
 <div align="center">
   <details>
     <summary>${\text{\color{#91867E}  (˶ᵔ ᵕ ᵔ˶) ‹𝟹 }}$</summary>
-    <p>${\text{\color{#ACCBAAE} I believe in good things . . . }}$</p>
-    <p>${\text{\color{#AC9F95} Only come to those who wait ♪ }}$</p>
+    <p>${\text{\color{#ACCBAAE} 𝑰 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒊𝒏 𝒈𝒐𝒐𝒅 𝒕𝒉𝒊𝒏𝒈𝒔 . . .  }}$</p>
+    <p>${\text{\color{#AC9F95} 𝑶𝒏𝒍𝒚 𝒄𝒐𝒎𝒆 𝒕𝒐 𝒕𝒉𝒐𝒔𝒆 𝒘𝒉𝒐 𝒘𝒂𝒊𝒕 ♪ }}$</p>
   </details>
 </div>
 
