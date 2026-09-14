@@ -16,10 +16,10 @@
 <div align="center">
 <p>${\text{\color{#ACCBAAE} ᡕᠵデᡁ᠊╾━ }}$</p>
 </div>
-
-<p><h4>${\text{\color{#91867E} I'm not very social online(loud or mute mostly), please keep your distance around me ESPECIALLY when I'm with Aspenolia. poor speech, please let me know if you do not understand things I say I will further explain for u, I don't mind! }}$</h4></p>
-
-  <div align="center">
+<div align="center" style="font-size: 1.2em; font-weight: bold;">
+  <p>${\text{\color{#91867E} I'm not very social online(loud or mute mostly), please keep your distance around me ESPECIALLY when I'm with Aspenolia. Poor speech, please let me know if you do not understand things I say I will further explain for u, I don't mind! }}$</p>
+</div>
+    
 <p><h6>DNI: Nosey, 20+, racist, trolls, copycats, cuddle bugs.</h6></p>
 </div>
 
