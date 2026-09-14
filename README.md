@@ -23,7 +23,7 @@
 
   <p>${\text{\color{#91867E}Aspenolia. Poor speech, please let me know if you do not}}$</p>
   
-<p>${\text{\color{#91867E}understand, I don't mind! }}$</p>
+<p>${\text{\color{#91867E}understand, I don't mind repeating myself! }}$</p>
 
   <div align="center">
 <p><h6>𝕯NI: Nosey, 20+, 12-, racist, trolls, copycats, cuddle bugs.</h6></p>
