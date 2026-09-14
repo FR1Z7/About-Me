@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<H1><I>${\text{\color{#91867E} .︶︶•︶`　↓　`︶•︶︶. }}$</I></H1>
+<H1><I>${\text{\color{#91867E} ּ ֶָ֢.︶ᬊ︵·．꥟‥.︶ּ⋆.˚ }}$</I></H1>
   </div>
 
 ![Alt text](https://files.catbox.moe/h6uewg.png)
@@ -40,9 +40,21 @@
 ![Alt text](https://files.catbox.moe/621sni.png)
 
 <div align="center">
-<p>${\text{\color{#ACCBAAE} ᡕᠵデᡁ᠊╾━ }}$</p>
+<p>${\text{\color{#ACCBAAE} ↜𐔌;՞  ܸ. ⁠ꞈ . ܸ՞𐦯ˎˊ˗ }}$</p>
 </div>
 
   <div align="center">
-  <p>${\text{\color{#91867E} 𝕴'm a big fan of Halloween, and as well as a big fan of violent games(murder or military). My preferred aesthetics: Cottage core, Coquette, cutegore, scene. my catchphrase is "I'm tired"  }}$</p>
+  <p>${\text{\color{#91867E} 𝕴'm a big fan of Halloween, and as well as a big fan of }}$</p>
+</div>
+
+<div align="center">
+  <p>${\text{\color{#91867E} violent games(murder or military). My preferred aesthetics: Cottage core, Coquette, cutegore, scene. my catchphrase is "I'm tired"  }}$</p>
+</div>
+
+<div align="center">
+  <p>${\text{\color{#91867E} aesthetics: Cottage core, Coquette, cutegore, scene. my catchphrase is "I'm tired"  }}$</p>
+</div>
+
+<div align="center">
+  <p>${\text{\color{#91867E} catchphrase is "I'm tired"  ꉂ(˵˃ ᗜ ˂˵) }}$</p>
 </div>
