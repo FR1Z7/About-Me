@@ -72,12 +72,12 @@
 ![Alt text](https://files.catbox.moe/jyxyfi.png)
 
   <div align="center">
-  <p>${\text{\color{#7E8798} ↑ 𝕱avorite Flower .︵. Favorite colours ↑ }}$</p>
+  <p>${\text{\color{#ACCBAAE} ↑ 𝕱avorite Flower .︵. Favorite colours ↑ }}$</p>
   </details>
 </div>
 
 <div align="center">
-<p>${\text{\color{#7E8798} 𝕹ot a fan of drama and parties, NO THANK YOU ( * ロ * ; ) }}$</p>
+<p>${\text{\color{#7E8798} 𝕹ot a fan of drama and parties, NO NO. ( ˵◝` ‸  ‘◜˵ マ↝ }}$</p>
   </details>
 </div>
 </details>
