@@ -17,16 +17,16 @@
 <p>${\text{\color{#ACCBAAE} ᡕᠵデᡁ᠊╾━ }}$</p>
 </div>
 
-  <p>${\text{\color{#91867E}I'm not very social online(loud or mute mostly), please }}$</p>
+  <p>${\text{\color{#91867E}𝕴'm not very social online(loud or mute mostly), please }}$</p>
   
 <p>${\text{\color{#91867E}keep your distance around me ESPECIALLY when I'm with }}$</p>
 
-  <p>${\text{\color{#91867E} Aspenolia. Poor speech, please let me know if you do not}}$</p>
+  <p>${\text{\color{#91867E}Aspenolia. Poor speech, please let me know if you do not}}$</p>
   
-<p>${\text{\color{#91867E} understand, I don't mind! }}$</p>
+<p>${\text{\color{#91867E}understand, I don't mind! }}$</p>
 
   <div align="center">
-<p><h6>DNI: Nosey, 20+, racist, trolls, copycats, cuddle bugs.</h6></p>
+<p><h6>𝕯NI: Nosey, 20+, 12-, racist, trolls, copycats, cuddle bugs.</h6></p>
 </div>
 
 ![Alt text](https://files.catbox.moe/621sni.png)
