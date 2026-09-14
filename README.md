@@ -67,13 +67,20 @@
 
 <div align="center">
   <details>
-    <summary>${\text{\color{#3F3A36} ADDITIONAL INFO }}$</summar
-                                                          
+    <summary>${\text{\color{#3F3A36} 𝕬DDITIONAL INFO }}$</summar>
+      
 ![Alt text](https://files.catbox.moe/jyxyfi.png)
-  
-  <p>${\text{\color{#7E8798} ↑ Favorite Flower .︵. Favorite colours ↑ }}$</p>
+
+  <div align="center">
+  <p>${\text{\color{#7E8798} ↑ 𝕱avorite Flower .︵. Favorite colours ↑ }}$</p>
   </details>
 </div>
+
+<div align="center">
+<p>${\text{\color{#7E8798} 𝕹ot a fan of drama and parties, NO THANK YOU ( * ロ * ; ) }}$</p>
+  </details>
+</div>
+</details>
 
 ![Alt text](https://files.catbox.moe/63c3zo.png)
 
