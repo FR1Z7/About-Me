@@ -67,8 +67,14 @@
 
 <div align="center">
   <details>
-    <summary>${\text{\color{#3F3A36} EXTRA INFO }}$</summary>
+    <summary>${\text{\color{#3F3A36} ADDITIONAL INFO }}$</summar
+                                                          
+![Alt text](https://files.catbox.moe/jyxyfi.png)
+  
+  <p>${\text{\color{#7E8798} ↑ Favorite Flower .︵. Favorite colours ↑ }}$</p>
   </details>
 </div>
 
 ![Alt text](https://files.catbox.moe/63c3zo.png)
+
+</HTML>
