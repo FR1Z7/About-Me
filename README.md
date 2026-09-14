@@ -1,14 +1,14 @@
 <HTML>
 <div align="center">
   <details>
-    <summary>${\text{\color{#91867E}  (˶ᵔ ᵕ ᵔ˶) ‹𝟹 }}$</summary>
+    <summary>${\text{\color{#3F3A36}  (˶ᵔ ᵕ ᵔ˶) ‹𝟹 }}$</summary>
     <p>${\text{\color{#ACCBAAE} 𝑰 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒊𝒏 𝒈𝒐𝒐𝒅 𝒕𝒉𝒊𝒏𝒈𝒔 . . .  }}$</p>
     <p>${\text{\color{#7E8798} 𝑶𝒏𝒍𝒚 𝒄𝒐𝒎𝒆 𝒕𝒐 𝒕𝒉𝒐𝒔𝒆 𝒘𝒉𝒐 𝒘𝒂𝒊𝒕 ♪ }}$</p>
   </details>
 </div>
 
 <div align="center">
-<H1><I>${\text{\color{#91867E} ꧁..🩶 ּ ֶָ֢.︶‥꥟‥︶ּ⋆.˚🩶..꧂ }}$</I></H1>
+<H1><I>${\text{\color{#91867E} ꧁..🩶 ּ ֶָ֢.︶‥꥟‥︶. ּ ֶָ֢🩶..꧂ }}$</I></H1>
   </div>
 
 ![Alt text](https://files.catbox.moe/h6uewg.png)
@@ -58,3 +58,17 @@
 <div align="center">
   <p>${\text{\color{#91867E} catchphrase is "I'm tired"  ꉂ(˵˃ ᗜ ˂˵) }}$</p>
 </div>
+
+<div align="center">
+  <p>${\text{\color{#7E8798} 𝕯O NOT touch/overcrowded, preferably, do not friend}}$</p>
+</div>
+
+![Alt text](https://files.catbox.moe/hm7qlo.png)
+
+<div align="center">
+  <details>
+    <summary>${\text{\color{#3F3A36} EXTRA INFO }}$</summary>
+  </details>
+</div>
+
+![Alt text](https://files.catbox.moe/63c3zo.png)
