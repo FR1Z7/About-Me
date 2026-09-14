@@ -16,9 +16,14 @@
 <div align="center">
 <p>${\text{\color{#ACCBAAE} ᡕᠵデᡁ᠊╾━ }}$</p>
 </div>
-<div align="center" style="font-size: 1.2em; font-weight: bold;">
-  <p>${\text{\color{#91867E} I'm not very social online(loud or mute mostly), please keep your distance around me ESPECIALLY when I'm with Aspenolia. Poor speech, please let me know if you do not understand things I say I will further explain for u, I don't mind! }}$</p>
-</div>
+
+  <p>${\text{\color{#91867E}I'm not very social online(loud or mute mostly), please }}$</p>
+  
+<p>${\text{\color{#91867E}keep your distance around me ESPECIALLY when I'm with }}$</p>
+
+  <p>${\text{\color{#91867E} Aspenolia. Poor speech, please let me know if you do not}}$</p>
+  
+<p>${\text{\color{#91867E} understand, I don't mind! }}$</p>
 
   <div align="center">
 <p><h6>DNI: Nosey, 20+, racist, trolls, copycats, cuddle bugs.</h6></p>
