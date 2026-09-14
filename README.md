@@ -17,13 +17,21 @@
 <p>${\text{\color{#ACCBAAE} ᡕᠵデᡁ᠊╾━ }}$</p>
 </div>
 
+<div align="center">
   <p>${\text{\color{#91867E}𝕴'm not very social online(loud or mute mostly), please }}$</p>
-  
-<p>${\text{\color{#91867E}keep your distance around me ESPECIALLY when I'm with }}$</p>
+</div>
 
+<div align="center">
+<p>${\text{\color{#91867E}keep your distance around me ESPECIALLY when I'm with }}$</p>
+</div>
+
+<div align="center">
   <p>${\text{\color{#91867E}Aspenolia. Poor speech, please let me know if you do not}}$</p>
-  
+</div>
+
+<div align="center">
 <p>${\text{\color{#91867E}understand, I don't mind repeating myself! }}$</p>
+</div>
 
   <div align="center">
 <p><h6>𝕯NI: Nosey, 20+, 12-, racist, trolls, copycats, cuddle bugs.</h6></p>
@@ -31,6 +39,10 @@
 
 ![Alt text](https://files.catbox.moe/621sni.png)
 
+<div align="center">
+<p>${\text{\color{#ACCBAAE} ᡕᠵデᡁ᠊╾━ }}$</p>
+</div>
+
   <div align="center">
-<p>${\text{\color{91867E} 𝕴'm a big fan of Halloween, and as well as a big fan of violent games(murder or military). My preferred aesthetics: Cottage core, Coquette, cutegore, scene. my catchphrase is "I'm tired" }}$</p>
+  <p>${\text{\color{#91867E} 𝕴'm a big fan of Halloween, and as well as a big fan of violent games(murder or military). My preferred aesthetics: Cottage core, Coquette, cutegore, scene. my catchphrase is "I'm tired"  }}$</p>
 </div>
