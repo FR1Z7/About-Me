@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <p>${\text{\color{#91867E}Aspenolia. Poor speech, please let me know if you do not}}$</p>
+  <p>${\text{\color{#91867E} @Aspenolia . Poor speech, please let me know if you do not}}$</p>
 </div>
 
 <div align="center">
@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <p>${\text{\color{#7E8798} 𝕯O NOT touch/overcrowded, preferably, do not friend}}$</p>
+  <p>${\text{\color{#7E8798} 𝕯O NOT touch/overcrowd, preferably, do not friend. }}$</p>
 </div>
 
 ![Alt text](https://files.catbox.moe/hm7qlo.png)
@@ -70,11 +70,11 @@
 </div>
 
   <div align="center">
-  <p>${\text{\color{#7E8798} natural tones.(Brown, gray) }}$</p>
+  <p>${\text{\color{#7E8798} natural tones. (Brown, gray) }}$</p>
 </div>
 
 <div align="center">
-<p>${\text{\color{#ACCBAAE} 𝕹ot a fan of drama and parties, no thanks. ( ˵◝` ‸  ‘◜˵ マ↝ }}$</p>
+<p>${\text{\color{#ACCBAAE} 𝕹ot a fan of drama or parties, no thanks. ( ˵◝` ‸  ‘◜˵ マ↝ }}$</p>
   </details>
 </div>
 
