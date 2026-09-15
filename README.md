@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  <p>${\text{\color{#91867E} aesthetics: Cottage core, Coquette, cutegore, scene. my catchphrase is "I'm tired"  }}$</p>
+  <p>${\text{\color{#91867E} aesthetics: Cottagecore, Dark coquette, Cutegore, scene. my catchphrase is "I'm tired"  }}$</p>
 </div>
 
 <div align="center">
@@ -65,23 +65,22 @@
 
 ![Alt text](https://files.catbox.moe/hm7qlo.png)
 
-<div align="center">
-  <details>
-    <summary>${\text{\color{#3F3A36} 𝕬DDITIONAL INFO }}$</summar>
-      
-![Alt text](https://files.catbox.moe/jyxyfi.png)
+  <div align="center">
+  <p>${\text{\color{#7E8798} 𝔐y favorite flower is deep blue hyacinths, and I love }}$</p>
+</div>
 
   <div align="center">
-  <p>${\text{\color{#ACCBAAE} ↑ 𝕱avorite Flower .︵. Favorite colours ↑ }}$</p>
+  <p>${\text{\color{#7E8798} natural tones.(Brown, gray) }}$</p>
+</div>
+
+<div align="center">
+<p>${\text{\color{#ACCBAAE} 𝕹ot a fan of drama and parties, no thanks. ( ˵◝` ‸  ‘◜˵ マ↝ }}$</p>
   </details>
 </div>
 
 <div align="center">
-<p>${\text{\color{#7E8798} 𝕹ot a fan of drama and parties, NO NO. ( ˵◝` ‸  ‘◜˵ マ↝ }}$</p>
-  </details>
-</div>
-</details>
-
+  <p>${\text{\color{#3F3A36} 𝔗HE END! }}$</p>
+  
 ![Alt text](https://files.catbox.moe/63c3zo.png)
 
 </HTML>
