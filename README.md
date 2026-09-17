@@ -79,6 +79,18 @@
 </div>
 
 <div align="center">
+  <p>${\text{\color{#91867E} anyone referencing/copying my stuff will be reported and }}$</p>
+</div>
+
+<div align="center">
+  <p>${\text{\color{#91867E} blocked, please ask. non permanent blocking: }}$</p>
+</div>
+
+<div align="center">
+  <p>${\text{\color{#91867E} physical affection towards my partner🩶 }}$</p>
+</div>
+
+<div align="center">
   <p>${\text{\color{#3F3A36} 𝔗HE END! }}$</p>
   
 ![Alt text](https://files.catbox.moe/63c3zo.png)
